@@ -4,3 +4,4 @@ annotations:
   my-annotation: "hello world"
   foo: "bar"
   baz: "boo"
+  new: "change"
