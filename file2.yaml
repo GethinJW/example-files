@@ -1,7 +1,7 @@
-name: "example2"
+name: example2
 replicas: 3
 annotations:
-  my-annotation: "hello world"
-  foo: "bar"
-  baz: "boo"
-  new: "change"
+  my-annotation: hello world
+  foo: bar
+  baz: boo
+  new: changechangechange
