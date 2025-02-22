@@ -4,3 +4,5 @@ annotations:
   my-annotation: "hello world"
   foo: "bar"
   baz: "boo"
+content:
+  hello: "world"
